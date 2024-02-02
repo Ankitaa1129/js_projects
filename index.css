@@ -1,0 +1,69 @@
+body{
+    background-color: rgb(197, 248, 248);
+    padding-top: 70px;
+    padding-bottom: 70px;
+    padding-top: 100px;
+    padding-bottom: 100px;
+}
+h1{
+    text-align: center;
+}
+#container{
+    text-align: center;
+    background-color: rgb(242, 151, 151);
+    padding: 50px;
+}
+.input{
+    display: inline-block;
+}
+.inp{
+    padding: 10px 10px;
+    margin: 10px;
+    font-weight: bold;
+    font-size: large;
+    width: 250px;
+    text-align: center;
+}
+label{
+    font-size: 25px;
+    color: black;
+}
+textarea{
+    border-radius: 3px;
+width: 98.8%;
+    border-color: blue;
+    font-size: large;
+}
+p{
+    text-align: center;
+    background-color: rgb(223, 242, 148);
+    font-size: 30px;
+    font-weight: bold;
+    color: black;
+    padding: 10px;
+    margin: 0px;
+
+}
+.btn
+{
+    width: 20px;
+    height: 20px;
+    display: inline-block;
+    border: solid grey 2px;
+    cursor: pointer;
+}
+#aqua{
+    background-color: rgb(142, 241, 241);
+}
+#violet{
+    background-color: rgb(145, 110, 179);
+}
+#white{
+    background-color: white;
+}
+#black{
+    background-color: black;
+}
+#color-switcher{
+    text-align: right;
+}
